@@ -1,0 +1,10 @@
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\bin\Debug\Data.dll.config
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\bin\Debug\Data.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\bin\Debug\Data.pdb
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\bin\Debug\EntityFramework.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\bin\Debug\MySql.Data.Entity.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\bin\Debug\MySql.Data.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\bin\Debug\EntityFramework.xml
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\obj\Debug\Data.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\Data\obj\Debug\Data.pdb

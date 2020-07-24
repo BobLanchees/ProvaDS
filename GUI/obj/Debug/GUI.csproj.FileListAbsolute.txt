@@ -1,0 +1,16 @@
+c:\users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\GUI.exe.config
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\GUI.exe
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\GUI.pdb
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\Data.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\EntityFramework.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\MySql.Data.Entity.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\MySql.Data.dll
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\Data.pdb
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\bin\Debug\EntityFramework.xml
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\obj\Debug\GUI.csproj.GUI.exe.config
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\obj\Debug\GUI.exe
+C:\Users\vruty\documents\visual studio 2015\Projects\QueroNemVer\GUI\obj\Debug\GUI.pdb
